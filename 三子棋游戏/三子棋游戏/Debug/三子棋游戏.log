@@ -1,0 +1,4 @@
+﻿  test.c
+C:\CodeLearn\C\三子棋游戏\三子棋游戏\test.c(40,13): warning C4013: “rand”未定义；假设外部返回 int
+C:\CodeLearn\C\三子棋游戏\三子棋游戏\test.c(141,7): warning C4013: “srand”未定义；假设外部返回 int
+  三子棋游戏.vcxproj -> C:\CodeLearn\C\三子棋游戏\Debug\三子棋游戏.exe
