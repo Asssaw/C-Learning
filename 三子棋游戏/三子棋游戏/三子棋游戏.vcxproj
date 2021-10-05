@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="play.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
